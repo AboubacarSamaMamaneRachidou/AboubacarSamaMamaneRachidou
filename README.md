@@ -63,8 +63,8 @@
                               <form action="contact.php" method="post"> 
                               <label for="nom">Nom</label> <input type="text" name="nom" id="nom"> <label for="emai">Email</label>
                               <input type="email" name="email" id="email"><label for="message">Message</label>
-  <textarea name="message" id="message">
- </textarea> <input type="submit" value="Envoyer"> </form> 
+  <text area name="message" id="message">
+ </text area> <input type="submit" value="Envoyer"> </form> 
       </section> 
     </main> 
     <footer> 
